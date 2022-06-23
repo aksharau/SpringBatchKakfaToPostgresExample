@@ -13,7 +13,7 @@
 	</parent>
 	
 	<properties>
-		<spring.batch.version>4.2.0.RELEASE</spring.batch.version>
+		<spring.batch.version>4.2.3.RELEASE</spring.batch.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
 		<version.io.swagger>2.2.2</version.io.swagger>
